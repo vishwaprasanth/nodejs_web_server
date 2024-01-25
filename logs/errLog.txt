@@ -1,1 +1,2 @@
 20240125	13:48:45	0774439a-4f40-4f98-ac19-6f7e08a1957c	Error: Not allowed by cors
+20240125	23:17:25	fc2f8280-092c-4af8-bfe7-fea383159323	Error: ENOENT: no such file or directory, stat 'D:\react-apps\nodejs_web_server\views\subdir\index.html'
