@@ -90,3 +90,7 @@
 20240125	23:30:26	b767d2c5-3389-432e-905e-3d5c11acd3e8	GET	undefined	/subdir/test
 20240125	23:32:43	83c385c7-83c1-4a71-a052-586fdeeaa064	GET	undefined	/subdir/test/re
 20240125	23:32:43	c573cfa5-877d-4035-b46e-269517f59271	GET	undefined	/subdir/css/style.css
+20240126	00:19:55	0980e2e4-755a-419b-9715-3d8d8222d16e	GET	undefined	/employees
+20240126	00:21:03	e1f3084b-1a0b-417f-99e1-3a5ac7f45674	GET	undefined	/employees/1
+20240126	00:26:57	7838c0ff-7787-4d35-9851-2451beddfee1	GET	undefined	/employees
+20240126	00:27:20	d71a36b0-8032-4d4f-9937-fd06b10679f8	POST	undefined	/employees
