@@ -1,2 +1,0 @@
-20240125	12:57:18	dc6418bf-6543-496f-96d4-d604e4d6330d	GET	 undefined	 /	
-20240125	12:57:18	c65f6ea6-a89e-44bf-a934-dc784be63c9e	GET	 undefined	 /css/style.css	
