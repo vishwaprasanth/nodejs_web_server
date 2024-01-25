@@ -94,3 +94,9 @@
 20240126	00:21:03	e1f3084b-1a0b-417f-99e1-3a5ac7f45674	GET	undefined	/employees/1
 20240126	00:26:57	7838c0ff-7787-4d35-9851-2451beddfee1	GET	undefined	/employees
 20240126	00:27:20	d71a36b0-8032-4d4f-9937-fd06b10679f8	POST	undefined	/employees
+20240126	01:44:19	b29c9745-6c5b-44c8-9bb1-20ac5e9b4430	POST	undefined	/employees
+20240126	01:44:44	005ba120-5881-4736-994f-38205e8e1684	DELETE	undefined	/employees
+20240126	01:44:46	c4638fee-6c50-425a-9707-a84f941fc285	DELETE	undefined	/employees
+20240126	01:44:48	92a61559-b5f5-4435-8aec-b2cd418c16fb	GET	undefined	/employees
+20240126	01:44:48	6c575285-db7d-45be-8598-5cfa0e03db89	GET	undefined	/employees
+20240126	01:44:49	9d37db64-a9c0-44b7-a3ab-14eaee13912d	GET	undefined	/employees
